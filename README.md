@@ -6,7 +6,7 @@ Non sono un programmatore di professione, ma un creatore di soluzioni. Amo la lo
 
 ### 🛠️ Progetti Attuali
 * **[OpenAquaero](https://github.com/raffaele-90/openaquaero):** Un software avanzato per la gestione della scheda Aquacomputer Aquaero 6 LT.
-* **GPDSense (Work in Progress):**Software per la gestione della ventola dei dispositivi GPD, che sto sviluppando per il mio GPD Pocket 4 (non ancora pubblicato)
+* **GPDSense (Work in Progress):**Software per la gestione della ventola dei dispositivi GPD, che sto sviluppando per il mio GPD Pocket 4 (non ancora pubblicato).
 
 ### 🔮 Sviluppi Futuri
 Nei miei radar ci sono progetti dedicati all'audiofilia, come il controllo software per l'RME ADI-2 DAC FS (attualmente orfano su Linux), e futuri tool open-source applicati al mio campo di lavoro, inerenti al mondo della chimica.

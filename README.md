@@ -1,4 +1,4 @@
-# Ciao, sono Raffaele Schiavone 👋
+# Ciao, mi chiamo Raffaele Schiavone
 
 Ho messo le mani nel mio primo pc nel 2002 e sono diventato ho hobbista assemblatore pochi anni dopo. Sono un utente Linux dal 2007. Il mio ecosistema ruota attorno ad Arch Linux, la mia scelta personale per avere un SO flessibile, leggero, privo di telemetria ed estraneo a logiche aziendali di SO proprietari, ostili all'utente.
 

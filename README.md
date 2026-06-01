@@ -1,4 +1,4 @@
-## **Hi, I'm Raffaele Schiavone
+# **Hi, I'm Raffaele Schiavone**
 
 I've been tinkering with PCs since 2002 and building custom rigs since 2005. Over the years, my curiosity has driven me deeper into optimization and modding, leading me to design and build custom liquid cooling loops since 2017. My digital ecosystem relies on Arch Linux (for daily use) and Debian (on my server): I choose transparent, flexible operating systems, free from proprietary logic and telemetry.
 

@@ -2,7 +2,7 @@
 
 I've been tinkering with PCs since 2002 and building custom rigs since 2005. Over the years, my curiosity has driven me deeper into optimization and modding, leading me to design and build custom liquid cooling loops since 2017. My digital ecosystem relies on Arch Linux (for daily use) and Debian (on my server): I choose transparent, flexible operating systems, free from proprietary logic and telemetry.
 
-In real life, I am a chemistry student, not a professional programmer. For me, coding isn't a passion in itself, but a means to achieve a result. I develop my projects by working closely with artificial intelligence tools: I provide the ideas, the system logic, the hardware reverse-engineering, and hours of testing; the AI helps me translate all of this into functional code.
+In real life, I am a chemistry student, not a professional programmer. For me, coding isn't a passion in itself, but a means to achieve a result. 
 
 🛠️ Current Projects
 

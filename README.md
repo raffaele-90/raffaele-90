@@ -6,7 +6,7 @@ In real life, I am a chemistry student, not a professional programmer. For me, c
 
 🛠️ Current Projects
 
-OpenAquaero: A control suite for the Aquacomputer Aquaero 6 LT, built as an alternative to Aquasuite (which is exclusively released for Microsoft Windows). Built from scratch, this project took a lot of effort and logical reasoning to finally allow me to use this controller without having to rely on a Windows/Linux dual boot or virtual machines just to change a few parameters.
+Aquacontrol: A control suite for the Aquacomputer Aquaero 6 LT, built as an alternative to Aquasuite (which is exclusively released for Microsoft Windows). Built from scratch, this project took a lot of effort and logical reasoning to finally allow me to use this controller without having to rely on a Windows/Linux dual boot or virtual machines just to change a few parameters.
 
 GPDSense (Work in Progress, unreleased): A utility dedicated to fan curve management and monitoring for GPD devices (currently in development on my GPD Pocket 4).
 

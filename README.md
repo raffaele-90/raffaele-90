@@ -12,4 +12,5 @@ Aquacontrol: a control suite for the Aquacomputer ecosystem, currently only supp
 
 I plan to develop Linux fan management software for GPD devices. This software will allow control of the RME ADI-2 FS DAC, which lacks native Linux parameter management software, forcing the user to navigate the device's complex menu using physical buttons. I also plan to write some utilities and try to get hardware that doesn't work on Linux because the manufacturers don't provide support. Since I don't like leaving things unfinished, I'm currently focusing all my efforts on AquaControl.
 
+The code I publish is open source, readable by anyone, maintained independently with the utmost seriousness, and offered FREE, despite the cost of working days, bug fixes, feature testing, and actual costs. Constructive criticism for improvement is welcome, but other criticism is not accepted, especially from those who don't collaborate on the project and don't write alternative software that offers the same features.
 It would be very helpful if you could report any problems or bugs related to the software I publish on the project pages.
